@@ -1,0 +1,20 @@
+.content__caption {
+  font-size: 10px;
+  line-height: 14px;
+  color: #ffffff;
+  text-transform: uppercase;
+  margin: 8px 0 0;
+  letter-spacing: 1.5px;
+}
+
+@media screen and (max-width: 768px) {
+  .content__caption {
+    margin-left: 24px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .content__caption {
+    margin-left: 16px;
+  }
+}

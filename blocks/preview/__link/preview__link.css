@@ -1,0 +1,27 @@
+.preview__link {
+  position: relative;
+  display: flex;
+  height: 740px;
+  text-decoration: none;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+@media screen and (max-width: 1024px) {
+  .preview__link {
+    height: 640px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .preview__link {
+    height: 480px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .preview__link {
+    height: 200px;
+  }
+}

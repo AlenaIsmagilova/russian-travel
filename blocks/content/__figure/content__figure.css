@@ -1,0 +1,16 @@
+.content__figure {
+  margin: 0;
+}
+
+@media screen and (max-width: 1024px) {
+  .content__figure {
+    padding: 28px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .content__figure {
+    padding: 0;
+    width: 100%;
+  }
+}

@@ -1,0 +1,10 @@
+.places__links {
+  justify-self: flex-start;
+  align-self: end;
+}
+
+@media screen and (max-width: 320px) {
+  .places__links {
+    margin-left: 16px;
+  }
+}
