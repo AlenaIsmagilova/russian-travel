@@ -5,6 +5,11 @@
   top: 0;
   left: 0;
   background-color: rgba(0, 0, 0, 0.5);
+  transition: background-color 1s ease;
+}
+
+.overlay:hover {
+  background-color: rgba(0, 0, 0, 0.8);
 }
 
 @media screen and (max-width: 1024px) {

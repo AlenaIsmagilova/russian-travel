@@ -3,4 +3,9 @@
   font-size: 18px;
   line-height: 22px;
   color: #ffffff;
+  transition: color 1s ease;
+}
+
+.places__link:hover {
+  color: #aaaaaa;
 }
