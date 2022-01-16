@@ -5,4 +5,5 @@ _В проекте описаны необычные места России, в
 
 1. HTML
 2. CSS
-3. ~~Mobile Friendly~~ Adaptive Layout
+3. ~~Mobile Friendly~~ Adaptive Layout  
+   **Посмотреть проект можно по [ссылке](https://alenaismagilova.github.io/russian-travel/)**
