@@ -1,11 +1,12 @@
 .overlay {
   width: 100%;
   min-height: 740px;
-  position: absolute;
-  top: 0;
-  left: 0;
   background-color: rgba(0, 0, 0, 0.5);
   transition: background-color 1s ease;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .overlay:hover {
