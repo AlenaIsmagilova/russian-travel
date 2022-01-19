@@ -10,6 +10,8 @@
 @media screen and (max-width: 767px) {
   .places__container {
     grid-template-columns: 1fr;
+    margin-bottom: 50px;
+    row-gap: 32px;
   }
 }
 

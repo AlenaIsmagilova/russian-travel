@@ -3,4 +3,5 @@
   max-width: 984px;
   flex-direction: column;
   padding-top: 56px;
+  align-items: center;
 }
