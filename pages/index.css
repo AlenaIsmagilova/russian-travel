@@ -28,7 +28,7 @@
 @import url(../blocks/places/__container/places__container.css);
 @import url(../blocks/places/__title/places__title.css);
 @import url(../blocks/places/__links/places__links.css);
-@import url(../blocks/places/__links-first/places__links-first.css);
+@import url(../blocks/places/__span-new-line/places__span-new-line.css);
 @import url(../blocks/places/__resourse/places__resourse.css);
 @import url(../blocks/places/__link/places__link.css);
 @import url(../blocks/places/__image/places__image.css);

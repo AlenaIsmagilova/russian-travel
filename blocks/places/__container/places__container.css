@@ -7,6 +7,18 @@
   margin-bottom: 80px;
 }
 
+@media screen and (max-width: 1279px) {
+  .places__container {
+    column-gap: 32px;
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .places__container {
+    column-gap: 28px;
+  }
+}
+
 @media screen and (max-width: 767px) {
   .places__container {
     grid-template-columns: 1fr;
