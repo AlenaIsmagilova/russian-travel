@@ -4,7 +4,6 @@
   color: white;
   text-decoration: none;
   transition: opacity 1s ease;
-  margin-right: 18px;
 }
 
 .header__link:hover {

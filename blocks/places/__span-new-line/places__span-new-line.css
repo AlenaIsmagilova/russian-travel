@@ -1,9 +1,0 @@
-.places__span-new-line {
-  display: block;
-}
-
-@media screen and (max-width: 767px) {
-  .places__span-new-line {
-    display: inline;
-  }
-}

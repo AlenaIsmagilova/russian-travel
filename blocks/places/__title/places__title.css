@@ -11,6 +11,7 @@
   .places__title {
     font-size: 42px;
     line-height: 46px;
+    white-space: pre-line;
   }
 }
 
@@ -19,5 +20,6 @@
     margin-left: 16px;
     font-size: 32px;
     line-height: 35px;
+    white-space: normal;
   }
 }
